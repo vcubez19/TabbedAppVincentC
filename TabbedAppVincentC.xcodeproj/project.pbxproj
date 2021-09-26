@@ -15,6 +15,7 @@
 		32E593F62700210300C163C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32E593F42700210300C163C1 /* LaunchScreen.storyboard */; };
 		32E594012700210300C163C1 /* TabbedAppVincentCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E594002700210300C163C1 /* TabbedAppVincentCTests.swift */; };
 		32E5940C2700210300C163C1 /* TabbedAppVincentCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E5940B2700210300C163C1 /* TabbedAppVincentCUITests.swift */; };
+		32E59425270025F800C163C1 /* MeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E59424270025F800C163C1 /* MeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		32E594072700210300C163C1 /* TabbedAppVincentCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TabbedAppVincentCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32E5940B2700210300C163C1 /* TabbedAppVincentCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbedAppVincentCUITests.swift; sourceTree = "<group>"; };
 		32E5940D2700210300C163C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32E59424270025F800C163C1 /* MeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				32E593EB270020F700C163C1 /* SceneDelegate.swift */,
 				32E593ED270020F700C163C1 /* ViewController.swift */,
 				32E593EF270020F700C163C1 /* Main.storyboard */,
+				32E59424270025F800C163C1 /* MeViewController.swift */,
 				32E593F22700210300C163C1 /* Assets.xcassets */,
 				32E593F42700210300C163C1 /* LaunchScreen.storyboard */,
 				32E593F72700210300C163C1 /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				32E593EE270020F700C163C1 /* ViewController.swift in Sources */,
 				32E593EA270020F700C163C1 /* AppDelegate.swift in Sources */,
+				32E59425270025F800C163C1 /* MeViewController.swift in Sources */,
 				32E593EC270020F700C163C1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
